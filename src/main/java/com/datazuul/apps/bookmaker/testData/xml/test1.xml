@@ -1,0 +1,6 @@
+<pattern name="Motivational" target="/home/monk/tmp/tmp/motivational">
+<image>
+<pixel color="0" x="0" y="0" intensity="14" />
+<histogram color="1" intensity="15" freq="0.9"  />
+</image>
+</pattern>
